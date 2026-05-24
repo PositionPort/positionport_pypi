@@ -2,7 +2,7 @@ import requests
 
 class PositionPortClient:
     def __init__(self, public_key: str, secret_key: str):
-        self.base_url = "https://api.positionport.com/external"
+        self.base_url = "http://91.99.68.226:8000/external"
         self.public_key = public_key
         self.secret_key = secret_key 
 
