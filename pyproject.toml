@@ -1,6 +1,6 @@
 [project]
 name = "positionport"
-version = "0.1.1"
+version = "0.1.3"
 description = "Official client library for PositionPort API"
 authors = [{ name = "James", email = "devgsbmaster@gmail.com" }]
 readme = "README.md"
